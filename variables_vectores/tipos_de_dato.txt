@@ -1,0 +1,9 @@
+--- TIPOS DE DATOS NATIVOS ---
+
+CARACTER -> CHAR   > 'A', 'a', '1', '.', ' '
+CADENA   -> STRING > "hola, mundo", "A", "1.12", " ", ""
+NUMÉRICO -> INT    > 1, 0, -2, 0
+DECIMAL  -> FLOAT  > 1.0, 5.3, 105.99, 0.0
+BOOLEANO -> BOOL   > true, false, 1, 0
+
+NULL UNDEFINED
