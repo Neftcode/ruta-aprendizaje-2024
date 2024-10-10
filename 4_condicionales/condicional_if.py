@@ -27,7 +27,7 @@ else:
         print("Mal")
     elif (nota>=3.3 and nota<=3.9):
         print("Regular")
-    elif (nota<=4.0 and nota <=4.5):
+    elif (nota>=4.0 and nota <=4.5):
         print("Sobresaliente")
     else:
         print("Excelente")
