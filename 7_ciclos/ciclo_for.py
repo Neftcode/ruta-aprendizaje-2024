@@ -11,6 +11,6 @@ print("2. Programa que determina y muestra si un número es par o impar en el ra
 
 for x in range(1, 101, 1):
     if (x%2 == 0):
-        print(f"{x}: El numero es par")
+        print(f"{x}: El número es par")
     else:
-        print(f"{x}: El numero es impar")
+        print(f"{x}: El número es impar")
