@@ -10,3 +10,4 @@
 - Principios SOLID - Principio de Responsabilidad Única (S).
 - Creación de listado de métodos y cómo llamarlos para su uso.
 - Ejercicio de lanzamiento de moneda cara o sello con función random.
+- Recursividad -> se ubica en el directorio _*recursividad*_.
